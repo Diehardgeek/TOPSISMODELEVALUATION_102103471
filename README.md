@@ -24,3 +24,11 @@ Normalize the aggregated metrics using techniques like Min-Max scaling to ensure
 ## 7. TOPSIS Implementation
 Implement the TOPSIS algorithm using the normalized metrics to determine the best model. Assign weights to each metric based on their importance, and calculate the TOPSIS score.
 
+## visualizations
+## 1. ![download (1)](https://github.com/Diehardgeek/TOPSISMODELEVALUATION_102103471/assets/127767001/939aa5f4-1ab0-4c96-bf60-6e8b40413230)
+## 2. ![download](https://github.com/Diehardgeek/TOPSISMODELEVALUATION_102103471/assets/127767001/c225d0ad-342a-4b02-b796-71b510202eff)
+
+# TOPSIS GRAPH
+![The-working-flow-graph-of-EWM-and-TOPSIS](https://github.com/Diehardgeek/TOPSISMODELEVALUATION_102103471/assets/127767001/3c0dbe5c-e76d-4606-9252-ff396f7384c0)
+
+
